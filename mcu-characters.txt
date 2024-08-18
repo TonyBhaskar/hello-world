@@ -1,0 +1,10 @@
+1.Iron Man (Tony Stark)
+2.Captain America (Steve Rogers)
+3.Thor
+4.Hulk (Bruce Banner)
+5.Black Widow (Natasha Romanoff)
+6.Hawkeye (Clint Barton)
+7.Spider-Man (Peter Parker)
+8.Doctor Strange (Stephen Strange)
+9.Black Panther (T'Challa)
+10.Ant-Man (Scott Lang)
